@@ -1,7 +1,7 @@
 # Market-Urun-Fiyat-Hesaplama
 C# ile yaptığım market otomasyonunda öğrencilere %5 , yaşlılara %3 , bu 2 seçeneğe uyumayanlara indirim yapılmadan ürün fiyatı hesaplamaktadır.
 
- #MENÜ
+ 
 ![1](https://user-images.githubusercontent.com/91004987/134799635-be60180f-5b89-4c8b-8c4c-9fa5904560eb.JPG)
 
 ![2](https://user-images.githubusercontent.com/91004987/134799631-b50dafa8-a1fc-4c0b-b71d-db89fd9b3320.JPG)
