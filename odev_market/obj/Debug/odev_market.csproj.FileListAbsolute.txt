@@ -1,0 +1,28 @@
+C:\Users\bilge\OneDrive\Masaüstü\vs2\odev\odev_market\odev_market\bin\Debug\odev_market.exe.config
+C:\Users\bilge\OneDrive\Masaüstü\vs2\odev\odev_market\odev_market\bin\Debug\odev_market.exe
+C:\Users\bilge\OneDrive\Masaüstü\vs2\odev\odev_market\odev_market\bin\Debug\odev_market.pdb
+C:\Users\bilge\OneDrive\Masaüstü\vs2\odev\odev_market\odev_market\obj\Debug\odev_market.csprojResolveAssemblyReference.cache
+C:\Users\bilge\OneDrive\Masaüstü\vs2\odev\odev_market\odev_market\obj\Debug\odev_market.Form1.resources
+C:\Users\bilge\OneDrive\Masaüstü\vs2\odev\odev_market\odev_market\obj\Debug\odev_market.Properties.Resources.resources
+C:\Users\bilge\OneDrive\Masaüstü\vs2\odev\odev_market\odev_market\obj\Debug\odev_market.csproj.GenerateResource.Cache
+C:\Users\bilge\OneDrive\Masaüstü\vs2\odev\odev_market\odev_market\obj\Debug\odev_market.exe
+C:\Users\bilge\OneDrive\Masaüstü\vs2\odev\odev_market\odev_market\obj\Debug\odev_market.pdb
+C:\Users\bilge\OneDrive\Masaüstü\ders-projelerim\vs2\odev\odev_market\odev_market\bin\Debug\odev_market.exe.config
+C:\Users\bilge\OneDrive\Masaüstü\ders-projelerim\vs2\odev\odev_market\odev_market\obj\Debug\odev_market.exe
+C:\Users\bilge\OneDrive\Masaüstü\ders-projelerim\vs2\odev\odev_market\odev_market\obj\Debug\odev_market.pdb
+C:\Users\bilge\OneDrive\Masaüstü\ders-projelerim\vs2\odev\odev_market\odev_market\bin\Debug\odev_market.exe
+C:\Users\bilge\OneDrive\Masaüstü\ders-projelerim\vs2\odev\odev_market\odev_market\bin\Debug\odev_market.pdb
+C:\Users\bilge\OneDrive\Masaüstü\ders-projelerim\vs2\odev\odev_market\odev_market\obj\Debug\odev_market.csprojResolveAssemblyReference.cache
+C:\Users\bilge\OneDrive\Masaüstü\ders-projelerim\vs2\odev\odev_market\odev_market\obj\Debug\odev_market.Form1.resources
+C:\Users\bilge\OneDrive\Masaüstü\ders-projelerim\vs2\odev\odev_market\odev_market\obj\Debug\odev_market.Properties.Resources.resources
+C:\Users\bilge\OneDrive\Masaüstü\ders-projelerim\vs2\odev\odev_market\odev_market\obj\Debug\odev_market.csproj.GenerateResource.Cache
+C:\Users\barış\Desktop\ADÜ ders projelerim\vs2\odev\odev_market\odev_market\bin\Debug\odev_market.exe.config
+C:\Users\barış\Desktop\ADÜ ders projelerim\vs2\odev\odev_market\odev_market\bin\Debug\odev_market.exe
+C:\Users\barış\Desktop\ADÜ ders projelerim\vs2\odev\odev_market\odev_market\bin\Debug\odev_market.pdb
+C:\Users\barış\Desktop\ADÜ ders projelerim\vs2\odev\odev_market\odev_market\obj\Debug\odev_market.csprojAssemblyReference.cache
+C:\Users\barış\Desktop\ADÜ ders projelerim\vs2\odev\odev_market\odev_market\obj\Debug\odev_market.Form1.resources
+C:\Users\barış\Desktop\ADÜ ders projelerim\vs2\odev\odev_market\odev_market\obj\Debug\odev_market.Properties.Resources.resources
+C:\Users\barış\Desktop\ADÜ ders projelerim\vs2\odev\odev_market\odev_market\obj\Debug\odev_market.csproj.GenerateResource.cache
+C:\Users\barış\Desktop\ADÜ ders projelerim\vs2\odev\odev_market\odev_market\obj\Debug\odev_market.csproj.CoreCompileInputs.cache
+C:\Users\barış\Desktop\ADÜ ders projelerim\vs2\odev\odev_market\odev_market\obj\Debug\odev_market.exe
+C:\Users\barış\Desktop\ADÜ ders projelerim\vs2\odev\odev_market\odev_market\obj\Debug\odev_market.pdb
