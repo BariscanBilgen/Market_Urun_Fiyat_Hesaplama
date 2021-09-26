@@ -11,7 +11,7 @@ C# ile yaptığım market otomasyonunda öğrencilere %5 , yaşlılara %3 , bu 2
 
 ![3](https://user-images.githubusercontent.com/91004987/134799633-97ef4def-070a-4a85-84c8-400f0b456f5e.JPG)
 
-# Yaşı İndirimi Seçimi
+# Yaşlı İndirimi Seçimi
 Yaşlı indirimi seçildikten sonra hesapla butonuna basılınca ekrana message box gelir toplam fiyatı gösterir,solda listede her ürünün tek tek fiyatı gözükür total fiyat alt kısımda gösterilir.
 
 ![4](https://user-images.githubusercontent.com/91004987/134799634-0b97eaeb-46a8-4301-83e4-275486baef8e.JPG)
